@@ -1,30 +1,20 @@
 ---
-title: "Investigadores Posgrados en la UNAM"
-author: "Carlos E Martínez-Rodríguez"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-site: bookdown::bookdown_site
+title: "Investigadores UNAM: Filosofía y Ciencias Genómicas"
+author: "Carlos Ernesto Martinez"
+date: "2023-08-12"
 output:
-  bookdown::gitbook:
-    config:
-      toc:
-        collapse: section
-        before: |
-          <li><a href="./">Posgrado en Ciencias Biomédicas</a></li>
-        after: |
-          <li><a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2003080144">Universidad Autónoma de la Ciudad de México</a></li>
-          <li><a href="https://twitter.com/carlosmroder">Twitter</a></li>
-          <li><a href="https://www.facebook.com/TTodoMundo/">Facebook</a></li>
-          <li><a href="https://www.linkedin.com/in/carlos-martinez-r/">LinkedIn</a></li>
-  bookdown::pdf_document2: default
-  bookdown::html_document2:
+  html_document:
     toc: true
+    toc_float: true
     toc_depth: 3
+    code_folding: show
 ---
 
-
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
+library(rvest)
 ```
+
 
 
 # Presentación
