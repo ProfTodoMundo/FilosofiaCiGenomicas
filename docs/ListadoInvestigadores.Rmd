@@ -1,23 +1,37 @@
 ---
-title: "Investigadores UNAM: Filosofía y Ciencias Genómicas"
-author:
-  - name: "Carlos E. Martinez-Rodríguez"
-    affiliation: "Universidad Autónoma de la Ciudad de México (UACM)"
-    email: "carlos.martinez@uacm.edu.mx"
-date: "2023-08-12"
+title: "Listado Investigadores"
+author: "Carlos Ernesto Martinez"
+date: "31-Agosto-2023"
+documentclass: article
 output:
-  html_document:
-    toc: true
-    toc_float: true
-    toc_depth: 3
-    code_folding: show
-    css: estilos.css
+  pdf_document:
+    toc: no  # Cambiado a "no" para eliminar la tabla de contenidos
+    number_sections: no
+header-includes:
+  - \usepackage{multicol}
+  - \usepackage{fancyhdr}
+  - \usepackage[document]{ragged2e}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyfoot[C]{\thepage}
+  - \fancyfoot[L]{\ifodd\value{page}\textit{\small Investigadores}\else\textit{\small Carlos E Martínez-Rodríguez}\fi}
+  - \fancyfoot[R]{\ifodd\value{page}\textit{\small Carlos E Martínez-Rodríguez}\else\textit{\small Investigadores}\fi}
+  - \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+  - \fancyhead[LE,RO]{\nouppercase{\rightmark}}
+  - \fancyhead[LO,RE]{\nouppercase{\leftmark}}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(rvest)
+
 ```
+
+\justify
+
+
+\newpage
+\thispagestyle{empty}
+
 
 
 
@@ -36,7 +50,6 @@ La idea de este documento es hacer una revisión de las páginas de cuatro área
 - [<code>Twitter</code>](https://twitter.com/carlosmroder) 
 - [<code>Linkedin</code>](https://www.linkedin.com/in/carlos-martinez-r/)
 
-Puedes descargar el archivo PDF de los apuntes [aquí]().
 
 
 # Investigadores
