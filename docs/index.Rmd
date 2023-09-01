@@ -36,7 +36,7 @@ La idea de este documento es hacer una revisión de las páginas de cuatro área
 - [<code>Twitter</code>](https://twitter.com/carlosmroder) 
 - [<code>Linkedin</code>](https://www.linkedin.com/in/carlos-martinez-r/)
 
-Puedes descargar el archivo PDF de los apuntes [aquí]().
+Puedes descargar el archivo PDF de los apuntes [aquí](https://github.com/ProfTodoMundo/FilosofiaCiGenomicas/blob/main/docs/ListadoInvestigadores.pdf).
 
 
 # Investigadores

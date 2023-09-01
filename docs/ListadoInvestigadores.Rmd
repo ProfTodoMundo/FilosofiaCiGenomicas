@@ -5,8 +5,8 @@ date: "31-Agosto-2023"
 documentclass: article
 output:
   pdf_document:
-    toc: no  # Cambiado a "no" para eliminar la tabla de contenidos
-    number_sections: no
+    toc: yes  # Cambiado a "no" para eliminar la tabla de contenidos
+    number_sections: yes
 header-includes:
   - \usepackage{multicol}
   - \usepackage{fancyhdr}
@@ -27,11 +27,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 \justify
-
-
-\newpage
-\thispagestyle{empty}
-
 
 
 
