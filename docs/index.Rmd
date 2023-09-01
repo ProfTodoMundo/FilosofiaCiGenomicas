@@ -11,6 +11,7 @@ output:
     toc_float: true
     toc_depth: 3
     code_folding: show
+    css: estilos.css
 ---
 
 ```{r setup, include=FALSE}
@@ -31,11 +32,48 @@ La idea de este documento es hacer una revisión de las páginas de cuatro área
 5. Biotecnología
 
 ## Información personal y redes sociales
-- [<code>Página personal</code>](https://directorioprofesores.uacm.edu.mx/profesor.html?key=2003080144) - [<code>Twitter</code>](https://twitter.com/carlosmroder) - [<code>Facebook</code>](https://www.facebook.com/TTodoMundo/) - [<code>Linkedin</code>](https://www.linkedin.com/in/carlos-martinez-r/)
+- [<code>Página personal</code>](https://directorioprofesores.uacm.edu.mx/profesor.html?key=2003080144) 
+- [<code>Twitter</code>](https://twitter.com/carlosmroder) 
+- [<code>Linkedin</code>](https://www.linkedin.com/in/carlos-martinez-r/)
 
 
 
 # Investigadores
+
+## Investigadores por contactar
+
+## Ernesto Pérez Rueda
+
+[<code>Página personal</code>](https://www.cienciamx.com/index.php/sociedad/personajes/6874-ser-investigador-es-una-cosa-accidental-ernesto-perez-rueda-biotecnologia-ciencia-investigacion)
+
+## María del Consuelo Gómez García
+
+[<code>Página personal</code>](https://www.sepi.enmh.ipn.mx/investigaci%C3%B3n/proyectos/dra-maria-del-consuelo-gomez-garcia.html)
+
+
+## Ignacio Eduardo Maldonado Mendoza
+
+[<code>Página personal</code>](https://ipn.elsevierpure.com/es/persons/ignacio-eduardo-maldonado-mendoza)
+
+## Enrique Merino Pérez
+[<code>Página personal</code>](https://www.ibt.unam.mx/perfil/2627/dr-enrique-merino-perez) y (
+https://orcid.org/0000-0002-0374-0640)
+
+## Dra. Blanca Itzelt Taboada Ramirez
+[<code>Página personal</code>](https://www.ibt.unam.mx/perfil/3505/dra-blanca-itzelt-taboada-ramirez)
+
+
+## Dr. Enrique Hernández Lemus
+[<code>Página personal</code>](https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=59)
+
+
+## OSBALDO RESENDIS ANTONIO
+[<code>Página personal</code>](https://www.mdcbq.posgrado.unam.mx/tutores/471/osbaldo-resendis-antonio) y (https://resendislab.github.io/)
+
+## Gabriel Del Río Guerra
+[<code>Página personal</code>](https://www.ifc.unam.mx/investigadores/gabriel-delrio) y (https://www.researchgate.net/profile/Gabriel-Del-Rio)
+
+
 
 ## Posgrado en Filosofía 
 
