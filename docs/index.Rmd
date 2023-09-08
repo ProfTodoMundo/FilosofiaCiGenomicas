@@ -16,7 +16,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(rvest)
+
 ```
 
 
@@ -37,6 +37,126 @@ La idea de este documento es hacer una revisión de las páginas de cuatro área
 - [<code>Linkedin</code>](https://www.linkedin.com/in/carlos-martinez-r/)
 
 Puedes descargar el archivo PDF de los apuntes [aquí](https://github.com/ProfTodoMundo/FilosofiaCiGenomicas/blob/main/docs/ListadoInvestigadores.pdf).
+
+
+# Informacion Importante
+
+• Con respecto a los documentos administrativos (VER Etapa 1 - Cuadro 1) o problemas con el Sistema de
+Registro de aspirantes al posgrado de la UNAM; puedes revisar la sección de [preguntas frecuentes](https://posgrado.dgae.unam.mx/ingreso/frequent_questions), una vez que hayas iniciado sesión, así mismo, puedes comunicarte al número telefónico: 55 56 23 23 00, extensión 37065. El horario de atención será de lunes a viernes (días hábiles) de 9:30 a 14:30 y de 17:00 a 18:00 horas (hora del centro de
+México). Se mantendrán sesiones de Zoom cada tercer día que serán publicadas en la sección de preguntas frecuentes en un horario de 10:00 a 14:30 horas.
+
+• Con respecto a los documentos académicos (VER Etapa 1 – Cuadro 2) comunicarse al número telefónico: (55) 5623-7001. El horario de atención será de lunes a viernes (días hábiles) de 9:30 a 13:30 horas (hora del centro de México). [Por correo electrónico](itorres@posgrado.unam.mx)
+
+## ETAPA 2. PROCESO DE SELECCIÓN POR EL COMITÉ ACADÉMICO DEL PROGRAMA
+
+El programa publicará la lista de las y los aspirantes que continúan en el proceso de selección el 7 de
+septiembre del 2023 en la página: www.pdcb.unam.mx. Deberás tener a la mano el folio asignado en el
+comprobante de registro y en caso de no haber completado la solicitud, lo podrás consultar en el sistema
+de Registro de aspirantes al posgrado de la UNAM https://posgrado.dgae.unam.mx/ingreso en la sección
+de solicitud(es) de ingreso.
+Considera que se podrá dar por concluida tu participación en cualquier etapa del proceso cuando no cumplas
+con los requisitos y/o trámites previstos en este Instructivo.
+2A. El 7 de septiembre del 2023 se publicará en la página del programa www.pdcb.unam.mx el listado de
+aspirantes que pueden realizar el “Registro complementario”, que inicia a partir de las 10:00 horas del 7
+de septiembre y termina el 29 de septiembre del 2023 a las 13:00 horas (hora de la Cd. Mx.) en la página
+www.pdcb.unam.mx de acuerdo con el instructivo publicado en la misma.
+Deberán ingresar los documentos de Etapa 1 - Cuadros 1 y Cuadro 2. El sistema te permite ingresar las veces
+necesarias para realizar modificaciones ya sea en tu registro o en la documentación, dentro del periodo
+comprendido para el Registro complementario, siempre y cuando sólo cierres sesión y no des por concluido
+tu registro al dar clic en el botón “Completar registro”.
+Nota: Los documentos capturados en el registro ante la DGAE (https://posgrado.dgae.unam.mx/ingreso)
+serán validados después del registro complementario. Específicamente el comprobante de inglés será
+validado después del 29 de septiembre de 2023. Si no es un documento válido, es decir, si no cumple con
+las especificaciones solicitadas, la persona aspirante no podrá continuar con el proceso de admisión.
+2B. Pago por concepto de trámite de registro y examen de aspirantes. Al momento de finalizar el registro
+complementario, el sistema les otorgará el número de referencia bancario único, así como el número de
+convenio para realizar el pago. En el caso de aspirantes nacionales el pago es por la cantidad de $460.00
+(cuatrocientos sesenta pesos 00/100 en moneda nacional), y para aspirantes extranjeros de $ 150.00 U.S.D
+(ciento cincuenta dólares americanos) los cuales no serán reembolsables, ni se emitirá comprobante fiscal
+alguno por el mismo. El recibo de pago deberá integrarse al “Registro complementario” antes del 29 de
+septiembre del 2023 a las 13:00 horas. El recibo de pago deberá subirse al “Registro complementario” en
+formato PDF. En caso de no integrarlo al registro complementario, no pueden continuar en el proceso de
+selección.
+6Para aspirantes extranjeras(os) que no residen en México el pago se realiza en el J.P. MORGAN CHASE BANK
+N.A., debiendo anotar el nombre de la o del aspirante (en el rubro Concepto), en caso de contar con número
+de cuenta UNAM anotarlo en el rubro de referencia, y el importe a pagar. Será necesario indicar que el pago
+es de un aspirante de posgrado, así como el nombre de la ciudad, estado y país en donde se hace el depósito.
+J.P. MORGAN CHASE BANK N.A. P.O. BOX 2558 MAIN STREET HOUSTON, TEXAS, USA. Cuenta No.
+00101693118 Swift o Code Chasus 33 ABA transferencia 111- 000-614 Universidad Nacional Autónoma de
+México.
+2C. Presentar examen MEPSI (Psicométrico). El examen se presentará el 3 de octubre del 2023 de manera
+virtual. Considerar que este examen no se podrá llevar a cabo en ninguna otra fecha. Mantenerse al
+pendiente de los avisos en la página del programa para su presentación.
+2D. Presentación y replica oral del proyecto de investigación. Asistir a la entrevista con el Subcomité de
+Admisión en el lugar, horario y fecha señalada para ello, los listados se publicarán el 16 de octubre en la
+página www.pdcb.unam.mx.
+Las fechas de presentación de entrevistas serán el 30 y 31 de octubre del 2023. El día de la entrevista
+deberán mostrar una identificación oficial (credencial de elector, credencial de la UNAM o pasaporte). Si la
+o el aspirante no se presenta sin dar aviso por escrito al menos 2 semanas antes de su entrevista, se le
+considerará como rechazo en la primera o segunda oportunidad según sea el caso.
+ETAPA 3. PUBLICACIÓN DE RESULTADOS
+El martes 28 de noviembre de 2023, se publicará el listado único de aspirantes aceptados al proceso de
+selección 2024-2 a los distintos programas de posgrado, en la página web Registro de aspirantes al posgrado
+de la UNAM https://posgrado.dgae.unam.mx/ingreso. Deberás tener a la mano el folio asignado en el
+comprobante de registro por parte de la DGAE, el cual podrás consultar en la misma dirección en la sección
+de solicitud(es) de ingreso.
+ETAPA 4. ENTREGA DOCUMENTAL ANTE LA DGAE
+Una vez que hayas sido aceptada(o) por el Programa de Posgrado, deberás ingresar entre los días 13, 14 y 15 de
+diciembre de 2023 a la página de Registro de aspirantes al posgrado de la UNAM
+https://posgrado.dgae.unam.mx/ingreso, en la sección Solicitud(es) de ingreso, seleccionar el programa donde
+fuiste aceptada(o), y descargar la Cita para entrega documental, que contiene las especificaciones para la
+entrega física de los documentos de ingreso al Programa de Posgrado.
+El inicio del semestre es el 29 de enero de 2024.
+Las y los aspirantes aceptadas(os) deberán realizar el trámite de inscripción de acuerdo con lo señalado en el
+Instructivo de Inscripción, que se publicará junto con el listado de las personas aspirantes aceptadas en la
+página web del Programa.
+De conformidad con lo establecido en los artículos 8, fracción III, y 10 del Reglamento General de Estudios de
+Posgrado, se entenderá que las y los aspirantes aceptados a un programa de posgrado que no cumplan con los
+requisitos establecidos en el plan de estudios o en la convocatoria, o que no entreguen la documentación
+requerida en las fechas establecidas, renuncian a su inscripción.
+7Notas:
+A. NO SE LES ENVIARÁ INFORMACIÓN PERSONALIZADA O RECORDATORIOS. Por ello, todas y todos los
+aspirantes deberán estar pendientes de su correo electrónico y de la información relacionada en la
+página web del Programa.
+B. Por situaciones imponderables las fechas y los sitios indicados en la presente convocatoria e instructivo
+están sujetos a cambios sin previo aviso, por lo que es sumamente importante que las personas
+aspirantes estén atentas de los canales de comunicación de la Coordinación del Programa de Doctorado
+en Ciencias Biomédicas, y sujetarse a las modificaciones acatando cada una de ellas.
+C. Por ningún motivo se brindará información ni retroalimentación alguna sobre el desempeño de la
+persona aspirante en el proceso de selección.
+D. Las personas aspirantes del Programa de Doctorado en Ciencias Biomédicas que no cuenten con su acta
+de examen de titulación de licenciatura/grado de maestría aprobada antes del inicio del semestre 2024-
+2 NO PODRÁN INSCRIBIRSE, aunque hubieran aprobado el proceso de selección.
+E. Las personas aspirantes aceptadas e inscritas oficialmente tienen la obligación de conocer el Plan de
+Estudios del Programa de Doctorado en Ciencias Biomédicas y las Normas Operativas del Programa, así
+como la Legislación Universitaria.
+F. Corresponderá a las personas aspirantes extranjeras, en caso de ser aceptadas, llevar a cabo todos los
+trámites migratorios que le sean solicitados por las autoridades migratorias correspondientes, sin
+que esta Universidad tenga alguna responsabilidad sobre ello (www.gob.mx/tramites), así como
+entregar la CURP a la DGAE.
+G. Esta Casa de Estudios no emitirá documentos ad hoc durante el proceso de selección en ninguna de sus
+etapas para las personas aspirantes, incluidos aquellos que sean requeridos para la realización de
+trámites académicos, administrativos o migratorios.
+H. La inscripción al Plan de Estudios del Programa de Doctorado en Ciencias Biomédicas estará condicionada
+a la revisión de la documentación por la DGAE, una vez aceptadas(os).
+I. Ser aceptada(o) en el Programa de Doctorado en Ciencias Biomédicas no garantiza la obtención de una
+beca u algún otro apoyo económico.
+J. Días inhábiles:15 y 16 de septiembre; 1, 2 y 20 de noviembre; 12 de diciembre de 2023.
+K. Vacaciones administrativas: del 3 al 21 de julio de 2023 y del 18 de diciembre de 2023 al 5 de enero de
+2024.
+L. Consulta el aviso de privacidad en https://www.dgae.unam.mx/aviso_privacidad.html
+CUALQUIER SITUACIÓN NO PREVISTA EN LA PRESENTE CONVOCATORIA SERÁ RESUELTA POR EL COMITÉ
+ACADÉMICO DEL PROGRAMA DE DOCTORADO EN CIENCIAS BIOMÉDICAS
+EL PROCESO DE SELECCIÓN Y LOS RESULTADOS SERÁN INAPELABLES
+Programa o entidad: Programa de Doctorado en Ciencias Biomédicas
+Dirección: Unidad de Posgrado, Edificio B, primer piso.
+Horarios de atención: lunes a viernes de 9:30 a 13:30 horas.
+Teléfono: (55) 56 23 70 01
+Correo electrónico: itorres@posgrado.unam.mx
+Página web: www.pdcb.unam.mx
+“POR MI RAZA HABLARÁ EL ESPÍRITU”
+Aprobado por el Comité Académico el 12 de abril del 2023.
+COMITÉ ACADÉMICO DEL PROGRAMA DE DOCTORADO EN CIENCIAS BIOMÉDICAS
 
 
 # Investigadores
